@@ -1,5 +1,4 @@
 function sumOfArray(array) {
-    console.log("🚀 ~ file: Array.js ~ line 2 ~ sumOfArray ~ array", array)
     var total = 0
     for (i in array) {
         total += parseInt(i)
